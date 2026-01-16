@@ -23,7 +23,7 @@
 - 🎓 Estudio **Ingeniería en Tecnología de Software** en la UANL (FIME).
 - 🤖 Programo algoritmos de inteligencia artificial para robots de competencia en la categoría **Rescue Line**.
 - 🌱 Estoy aprendiendo sobre **Ciberseguridad** y **Optimización Lineal**.
-- ⚡ **Fun fact:** Me interesa el desarrollo de videojuegos y entrenar modelos de IA para cosas creativas (¡como recomendaciones de música rock!).
+- ⚡ **Fun fact:** Me interesa el desarrollo de videojuegos y entrenar modelos de IA para cosas creativas.
 
 ---
 
@@ -43,11 +43,3 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
 </div>
 
----
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Natty093&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natty093&layout=compact&theme=dracula&hide_border=true" height="160" alt="languages graph" />
-</div>
