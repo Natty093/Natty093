@@ -15,17 +15,26 @@ Nice to meet you! I'm currently studying Software Technology Engineering at Univ
 
 ---
 
+### 🎧 What I'm listening to...
+
+<div align="center">
+  <a href="https://open.spotify.com/user/tu_usuario">
+    <img src="https://spotify-readme-rose.vercel.app/api" alt="Mi Top 5 de Spotify" />
+  </a>
+</div>
+
+---
 
 ### Plenty of skills...
 
-<h3 align="center">💻 Programming Languages & Databases</h3>
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,js,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,js,php" />
 </p>
 
 <h3 align="center">📱 Frontend & Mobile Development</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,flutter,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=html,flutter,androidstudio" />
 </p>
 
 <h3 align="center">📡 Hardware & Embedded Systems</h3>
